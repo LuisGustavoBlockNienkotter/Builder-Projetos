@@ -1,0 +1,16 @@
+{
+"Nome do Projeto":"Nome",
+"Descrição":"Descrição aqui",
+"Pastas":[
+    "Pasta1",
+    "Pasta2",
+    "Pasta2\\Pasta3"
+],
+"PDO":{
+    "Host":"localhost",
+    "Drive":"mysql",
+    "Nome do Banco":"DBNOME",
+    "Usuario":"root",
+    "Senha":" "
+}
+}
